@@ -12,5 +12,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name='Gcam Services Provider'
+rootProject.name='Gcam Preview Provider'
 include ':app'

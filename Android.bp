@@ -1,5 +1,5 @@
 android_app {
-    name: "GcamServicesProvider",
+    name: "GcamPreviewProvider",
     srcs: [
         "app/src/main/java/**/*.kt",
     ],
