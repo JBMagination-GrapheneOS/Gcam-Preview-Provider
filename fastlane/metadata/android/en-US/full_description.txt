@@ -1,8 +1,1 @@
-This app "simulates" the Google Play Services that the Google Camera app (Gcam) requires, allowing the camera app to be used on devices without Google Play Services. Note that this app comes without UI and therefore has no icon in the app drawer. But of course it is listed in the Android settings (e.g. for uninstallation).
-
-<b>It is strongly recommended to read the project page to learn more about compatibility and limitations.</b>
-
-This app is NOT compatible with devices running Google Play Services or microg, installation will fail on these devices. Also, the original Gcam (unmodded) version 7.6 or newer requires a compatible Android version (OS/ROM). More information about this on the project page as well.
-
-Project page:
-https://github.com/lukaspieper/Gcam-Services-Provider
+Gcam Preview Provider

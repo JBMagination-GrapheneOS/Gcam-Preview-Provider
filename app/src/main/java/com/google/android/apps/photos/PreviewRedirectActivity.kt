@@ -1,4 +1,4 @@
-package de.lukaspieper.gcam
+package com.google.android.apps.photos
 
 import android.app.Activity
 import android.os.Bundle
