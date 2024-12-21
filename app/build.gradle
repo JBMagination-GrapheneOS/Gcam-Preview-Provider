@@ -13,9 +13,9 @@ android {
 
     defaultConfig {
         minSdk 19
-        targetSdk 34
-        versionCode 7
-        versionName "1.0.0"
+        targetSdk 31
+        versionCode 8
+        versionName "1.5.2"
     }
 
     flavorDimensions 'default'
@@ -31,5 +31,10 @@ android {
     dependenciesInfo {
         includeInApk false
         includeInBundle false
+    }
+
+    // TODO: Upgrade targetSdk
+    lintOptions {
+        disable 'ExpiredTargetSdkVersion'
     }
 }
